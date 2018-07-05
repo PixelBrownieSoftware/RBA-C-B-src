@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: c4991966794229c40bcc7ee802382b37
+timeCreated: 1517419665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Greenler_0
+    21300002: Greenler_1
+    21300004: Greenler_2
+    21300006: Greenler_3
+    21300008: Greenler_4
+    21300010: Greenler_5
+    21300012: Greenler_6
+    21300014: Greenler_7
+    21300016: Greenler_8
+    21300018: Greenler_9
+    21300020: Greenler_10
+    21300022: Greenler_11
+    21300024: Greenler_12
+    21300026: Greenler_13
+    21300028: Greenler_14
+    21300030: Greenler_15
+    21300032: Greenler_16
+    21300034: Greenler_17
+    21300036: Greenler_18
+    21300038: Greenler_19
+    21300040: Greenler_20
+    21300042: Greenler_21
+    21300044: Greenler_22
+    21300046: Greenler_23
+    21300048: Greenler_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greenler_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 196
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 196
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 196
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 196
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 197
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 197
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 197
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 197
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 16
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5293673, y: 0.13882306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 87
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5208019, y: 0.1590131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 51
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.50978893, y: 0.16349977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 59
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4938815, y: 0.12760633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 9
+        width: 59
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4703421, y: 0.1410664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44371253, y: 0.13882309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 51
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44248906, y: 0.13209312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 108
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48631865, y: 0.16835937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 108
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45439503, y: 0.18149363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 108
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4525708, y: 0.17985179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 71
+        height: 52
+      alignment: 9
+      pivot: {x: 0.37096974, y: 0.20068994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Greenler_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 108
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48267025, y: 0.18374018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

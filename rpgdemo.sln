@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgdemo.CSharp", "rpgdemo.CSharp.csproj", "{42677819-AA97-B537-7A06-7F4BE7165221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgdemo.CSharp.Editor", "rpgdemo.CSharp.Editor.csproj", "{6D23DB00-FE20-54D2-18A0-ABB6DD4B8977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42677819-AA97-B537-7A06-7F4BE7165221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42677819-AA97-B537-7A06-7F4BE7165221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42677819-AA97-B537-7A06-7F4BE7165221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42677819-AA97-B537-7A06-7F4BE7165221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D23DB00-FE20-54D2-18A0-ABB6DD4B8977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D23DB00-FE20-54D2-18A0-ABB6DD4B8977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D23DB00-FE20-54D2-18A0-ABB6DD4B8977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D23DB00-FE20-54D2-18A0-ABB6DD4B8977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
