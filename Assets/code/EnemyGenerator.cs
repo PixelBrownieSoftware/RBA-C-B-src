@@ -81,11 +81,5 @@ public class EnemyGenerator : MonoBehaviour {
             enemyCopy.transform.parent = GameObject.Find("Enemies").transform;
         }
 
-        /*
-        if (Phase.isBoss && bossDead)
-        {
-            currentPhase++;
-        }*/
-
     }
 }
