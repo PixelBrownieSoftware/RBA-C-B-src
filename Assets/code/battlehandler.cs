@@ -5,6 +5,15 @@ using System.IO;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 
+/*
+Notes 24/07/2018: 
+A lot of this code was inspired from an RPG game called "JGA: Crossroads" which is a game made on the same engine as this one. 
+I didn't copy-paste the code, I sort of copied it and manipulated it to suit my game's needs i.e. running, getting exp etc.
+
+If I'm honest with you, It's quite a mess - but I have indeed learned a lot.
+Should I make another RPG, I promise the code will look much less messier than this.
+*/
+
 public class battlehandler : BaseGui
 {
     public static battlehandler BSM;
@@ -340,6 +349,12 @@ public class battlehandler : BaseGui
         createdButtons = false;
     }
 
+/*
+Notes 25/07/2018:
+This is the ugliest part of the code, because I didn't really have much of a clue about what delegates were.
+Or I could have even put this on an OnGUI function to draw the buttons to have an if statement rather than all this repeated code.
+*/
+
     //creating attack buttons
     public void createAttackButtons() {
       //  PlaySelectSound();
@@ -371,7 +386,8 @@ public class battlehandler : BaseGui
     }
 
     //creating target buttons
-    public void createTargetButtons(AttackBase attkMove) {
+    public void createTargetButtons(AttackBase attkMove) 
+    {
         PlaySelectSound();
         int numberOfAttacks = enemies.Count;
 
@@ -670,19 +686,7 @@ public class battlehandler : BaseGui
         currentTurn++;
 
         currentTurn %= totalChars;
-
-        /*
-        if (roundComplete() == true)
-        {
-            foreach (BattleCharacter player in players)
-            {
-                player.specialPoints += Random.Range(0, 2);
-            }
-            foreach (BattleCharacter enemy in enemies)
-            {
-                enemy.specialPoints += Random.Range(0, 2);
-            }
-        }*/
+        
         if (currentTurn < players.Count)
         {
             if (players[currentTurn].animations == BattleCharacter.animationstate.dead || players[currentTurn].health <= 0)
