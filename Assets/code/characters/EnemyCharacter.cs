@@ -76,7 +76,12 @@ abstract public class EnemyCharacter : BattleCharacter {
     public void CustomAI() {
 
         //leave this for any character that has custom AI
-
+        
+        /*
+        Notes 24/07/2018:
+        This was intended to be in the game, but I decided to not give custom AI due to the fact that I had a lot
+        of difficulty implementing it.
+        */
     }
 
     abstract public void attackSelector();
@@ -128,11 +133,6 @@ abstract public class EnemyCharacter : BattleCharacter {
     new public void Update ()
     {
         base.Update();
-        /*
-        if (health <= 0)
-        {
-            battlehandler.BSM.enemies.Remove(this);
-        }*/
     }
     
 }
