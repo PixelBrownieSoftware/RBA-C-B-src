@@ -188,47 +188,6 @@ public class BluelerClass : PlayerCharacter {
         wWack.attkType = AttackBase.attackType.attack;
         wWack.attkElement = AttackBase.attackElement.normal;
         moves.Add(wWack);
-
-        /*
-        AttackBase frststrik = new AttackBase();
-        frststrik.name = "Frost Strike";
-        frststrik.power = 25;
-        frststrik.spCost = 4;
-        frststrik.attkElement = AttackBase.attackElement.ice;
-        frststrik.attkRng = AttackBase.attackRange.single;
-        frststrik.attkType = AttackBase.attackType.skill;
-        moves.Add(frststrik);
-        
-        AttackBase chill = new AttackBase();
-        chill.attkElement = AttackBase.attackElement.ice;
-        chill.attkRng = AttackBase.attackRange.all;
-        chill.attkType = AttackBase.attackType.magic;
-        chill.power = 35;
-        chill.spCost = 5;
-        chill.name = "Chill";
-        moves.Add(chill);
-        
-        AttackBase BF = new AttackBase();
-        BF.name = "Blue Frenzy";
-        BF.power = 0;
-        BF.spCost = 5;
-        BF.attkType = AttackBase.attackType.magic;
-        BF.attkRng = AttackBase.attackRange.all;
-        BF.attkElement = AttackBase.attackElement.ice;
-        moves.Add(BF);
-        
-        AttackBase diamond = new AttackBase();
-        diamond.attkElement = AttackBase.attackElement.light;
-        diamond.attkRng = AttackBase.attackRange.all;
-        diamond.attkType = AttackBase.attackType.magic;
-        diamond.power = 85;
-        diamond.name = "Diamond Gleam";
-        diamond.spCost = 25;
-        moves.Add(diamond);
-         */
-
-
-
     }
 
     new void Update() {
