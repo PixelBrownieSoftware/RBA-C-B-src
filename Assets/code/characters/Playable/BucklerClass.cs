@@ -57,62 +57,6 @@ public class BucklerClass : PlayerCharacter
         shoot.power = 18;
         shoot.name = "Shoot";
         moves.Add(shoot);
-
-        /*
-        AttackBase doubleshot = new AttackBase();
-        doubleshot.attkElement = AttackBase.attackElement.normal;
-        doubleshot.attkRng = AttackBase.attackRange.single;
-        doubleshot.attkType = AttackBase.attackType.skill;
-        doubleshot.power = 12;
-        doubleshot.name = "Double Shot";
-        doubleshot.spCost = 2;
-        moves.Add(doubleshot);
-
-        AttackBase flamethrower = new AttackBase();
-        flamethrower.attkElement = AttackBase.attackElement.fire;
-        flamethrower.attkRng = AttackBase.attackRange.all;
-        flamethrower.attkType = AttackBase.attackType.skill;
-        flamethrower.name = "Flamethrower";
-        flamethrower.power = 25;
-        flamethrower.spCost = 4;
-        moves.Add(flamethrower);
-
-        AttackBase bomb = new AttackBase();
-        bomb.attkElement = AttackBase.attackElement.normal;
-        bomb.attkRng = AttackBase.attackRange.all;
-        bomb.attkType = AttackBase.attackType.skill;
-        bomb.power = 38;
-        bomb.spCost = 12;
-        bomb.name = "Bomb";
-        moves.Add(bomb);
-
-        AttackBase bone= new AttackBase();
-        bone.attkElement = AttackBase.attackElement.normal;
-        bone.attkRng = AttackBase.attackRange.single;
-        bone.attkType = AttackBase.attackType.skill;
-        bomb.power = 0;
-        bomb.spCost = 12;
-        bomb.name = "Bonebreak";
-        moves.Add(bone);
-
-        AttackBase electrcute = new AttackBase();
-        electrcute.attkElement = AttackBase.attackElement.electric;
-        electrcute.attkRng = AttackBase.attackRange.single;
-        electrcute.attkType = AttackBase.attackType.skill;
-        electrcute.name = "Electrocute";
-        electrcute.power = 30;
-        electrcute.spCost = 8;
-        moves.Add(electrcute);
-
-        AttackBase shadowsnipe = new AttackBase();
-        shadowsnipe.attkElement = AttackBase.attackElement.shadow;
-        shadowsnipe.attkRng = AttackBase.attackRange.single;
-        shadowsnipe.attkType = AttackBase.attackType.skill;
-        shadowsnipe.power = 40;
-        shadowsnipe.spCost = 8;
-        shadowsnipe.name = "Shadow Snipe";
-        moves.Add(shadowsnipe);
-        */
     }
 
     public override void moveSelector()
